@@ -1,0 +1,7 @@
+"ID","Milestone","Baseline week","Forecast week","Owner","Dependency"
+"N-M01","Discovery charter","2","2","Sponsor",""
+"N-M02","Research and priority approval","5","5","Product Owner","N-M01"
+"N-M03","Prototype baseline","11","11","UX Lead","N-M02"
+"N-M04","Final usability and acceptance","14","14","Product Owner","N-M03"
+"N-M05","Implementation pack prepared","15","15","Technical Lead","N-M04"
+"N-M06","Receive handoff and close","16","16","Sponsor","N-M05"

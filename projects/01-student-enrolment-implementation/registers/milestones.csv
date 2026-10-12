@@ -1,0 +1,9 @@
+﻿ID,Phase,Milestone,Baseline_Week,Forecast_Week,Scenario_Status_W16,Owner,Dependency,Gate_Evidence
+M-01,Initiation,Concept authorized,2,2,Complete,Sponsor,,Business case
+M-02,Planning,Baseline scope and plan approved,5,5,Complete,Sponsor,M-01,Charter + WBS + budget
+M-03,Build,Features baseline complete,13,13,Complete,Technical Lead,M-02,Demo + traceability
+M-04,Assurance,UAT and operations gate,17,17,At risk,Business Owner / Ops Lead,M-03,UAT >=95%; zero P0/P1; readiness checklist
+M-05,Release,10-school pilot,18,18,At risk,Sponsor,M-04,G3 go/no-go + smoke tests
+M-06,Pilot,Pilot evidence and decision,20,20,Planned,Sponsor,M-05,Support + adoption + incident evidence
+M-07,Release,40-school expanded rollout,21,21,Planned,Sponsor,M-06,G4 go/no-go + readiness
+M-08,Closure,Handover and closeout,24,24,Planned,Business Owner / Ops Lead,M-07,Runbook + benefits ownership + closure

@@ -1,0 +1,7 @@
+"ID","Type","Description","Owner","Status W24","Action","Due week","Link"
+"R-P01","Risk","Incorrect identity linkage","Data Lead","Materialized","Profile keys and reconcile","26","I-P01"
+"I-P01","Issue","Rehearsal mislinks service history","Data Lead","Open P1","Freeze output; correct; retest","26","CR-P01"
+"R-P02","Risk","Unapproved eligibility interpretation","Business Owner","Mitigating","Policy-owner boundary examples","10","PEN-03"
+"R-P03","Risk","Inadequate role separation","Technical Lead","Mitigating","Negative approval and access tests","26","PEN-04"
+"A-P01","Assumption","Policy SMEs available for acceptance","Business Owner","Confirmed","Reserve alternates","23","P-M04"
+"D-P01","Dependency","Signed source-to-target map","Finance Controller","At risk","Independent reconciliation","26","P-G02"

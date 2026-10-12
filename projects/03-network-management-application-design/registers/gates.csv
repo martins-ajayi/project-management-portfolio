@@ -1,0 +1,7 @@
+"Gate","Criterion","Owner","W11 status","W14 status","W16 status","Evidence","Reviewer"
+"N-G01","Device task >=80%","Research Lead","Pending","Pass","Pass","SIM-N-RES01","Product Owner"
+"N-G02","Guest control task >=80%","Research Lead","Fail","Pass","Pass","SIM-N-RES02","Product Owner"
+"N-G03","Troubleshooting task >=80%","Research Lead","Pending","Pass","Pass","SIM-N-RES03","Product Owner"
+"N-G04","Zero critical findings and reviewed accessibility","QA Reviewer","Pending","Pass","Pass","SIM-N-QA","QA Reviewer"
+"N-G05","Feasibility and prototype acceptance","Technical Lead","Pending","Pass","Pass","DEC-N02","Product Owner"
+"N-G06","Receiving-team handoff W16","PM","Pending","Pending","Pass","DEC-N03","Technical Lead"

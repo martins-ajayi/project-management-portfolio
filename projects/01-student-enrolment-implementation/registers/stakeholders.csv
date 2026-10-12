@@ -1,0 +1,9 @@
+﻿Role,Influence,Interest,Primary_Need,Engagement_Strategy,Cadence
+Sponsor,High,High,Business outcomes; budget; gates,Manage closely; decision brief,Biweekly + critical issue
+Business Owner,High,High,Usable workflows; acceptance,Workshops; UAT; signoff,Weekly
+School Representatives,Medium,High,Usable registration and training,Pilot champions; demos,At milestones
+Technical Lead,High,High,Feasible design and dependencies,Integrated review; decision input,Daily + weekly
+QA Lead,High,High,Test evidence; exit criteria,Defect triage and quality gate,Daily in UAT
+Data Lead,Medium,High,Mapping and reconciliation,Migration reviews,Weekly; daily during cutover
+Operations Lead,High,High,Supportable release and handover,Readiness and hypercare reviews,Weekly from W14
+Change Lead,Medium,Medium,Training and communication,Adoption tracking,Weekly

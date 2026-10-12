@@ -1,0 +1,10 @@
+﻿Activity,Sponsor,Business_Owner,Project_Manager,Technical_Lead,QA_Lead,Data_Lead,Operations_Lead,Change_Lead
+Approve project baseline,A,C,R,C,I,I,I,I
+Sign off business requirements,I,A,C,C,C,I,I,I
+Maintain integrated schedule and RAID,I,C,A/R,C,C,C,C,C
+Approve technical design,I,C,I,A/R,C,C,C,I
+Approve UAT acceptance,I,A,C,C,R,C,C,I
+Approve contingency draw,A,C,R,C,C,C,I,I
+Execute migration,I,C,C,C,C,A/R,C,I
+Authorize go/no-go,A,R,C,C,C,C,R,I
+Accept operational handover,I,C,C,C,C,C,A/R,R

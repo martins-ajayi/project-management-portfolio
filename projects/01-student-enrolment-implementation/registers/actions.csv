@@ -1,0 +1,6 @@
+﻿Action_ID,Raised_Week,Action,Owner,Due_Week,Status_at_W16,Linked_Record
+ACT-01,16,Revise duplicate identifier mapping,Data Lead,17,Open,I-01
+ACT-02,16,Retest 180 UAT scenarios and report P1 status,QA Lead,17,Open,I-01
+ACT-03,16,Escalate contingency request and gate risk,Project Manager,16,Done,CHG-01
+ACT-04,16,Verify pilot support and rollback steps,Operations Lead,17,Open,M-04
+ACT-05,16,Coordinate school pilot training confirmation,Change Lead,17,In progress,M-05

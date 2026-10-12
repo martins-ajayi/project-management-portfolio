@@ -1,0 +1,9 @@
+﻿Requirement_ID,Business_Need,Priority,Acceptance_Criterion,Test_Ref,W16_Status,W17_Simulated_Status,Owner
+REQ-01,School profile and authorized users,Must,Users isolated to permitted schools,UAT-01,Pass,Pass,Business Owner
+REQ-02,Candidate form and mandatory fields,Must,Required fields enforced,UAT-02,Pass,Pass,Business Owner
+REQ-03,Exam selection,Must,Only eligible selections allowed,UAT-03,Pass,Pass,Business Owner
+REQ-04,Duplicate record validation,Must,Duplicates rejected or quarantined,UAT-04,Fail P1,Pass,Business Owner
+REQ-05,Registration confirmation,Must,Stable confirmation ID generated,UAT-05,Pass,Pass,Business Owner
+REQ-06,Access controls and audit,Must,Unauthorized access denied and logged,UAT-06,Pass,Pass,Business Owner
+REQ-07,Operational export,Should,Report reconciles with accepted records,UAT-07,Pass,Pass,Business Owner
+REQ-08,Validated legacy roster import,Should,Exception reporting and reconcilable totals,UAT-08,Blocked,Pass,Business Owner

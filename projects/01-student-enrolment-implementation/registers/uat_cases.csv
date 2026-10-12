@@ -1,0 +1,9 @@
+﻿Test_ID,Requirement_ID,Scenario,Expected_Result,W16_Result,W17_Result,Severity_if_Failed,Evidence
+UAT-01,REQ-01,School user opens candidate from another school,Access denied,Pass,Pass,P1,SYN-001
+UAT-02,REQ-02,Submit with missing required identity field,Block with message,Pass,Pass,P2,SYN-002
+UAT-03,REQ-03,Select ineligible examination,Selection rejected,Pass,Pass,P2,SYN-003
+UAT-04,REQ-04,Import duplicate candidate identifier,Quarantine and log duplicate,Fail,Pass,P1,SYN-004
+UAT-05,REQ-05,Complete successful enrolment,Issue repeatable confirmation,Pass,Pass,P2,SYN-005
+UAT-06,REQ-06,Attempt unprivileged update,Deny and audit,Pass,Pass,P1,SYN-006
+UAT-07,REQ-07,Export accepted enrolments,Reconciled counts,Pass,Pass,P2,SYN-007
+UAT-08,REQ-08,Import legacy sample roster,Matched totals; exceptions logged,Blocked,Pass,P1,SYN-008

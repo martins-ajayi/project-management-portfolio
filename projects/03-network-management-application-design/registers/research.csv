@@ -1,0 +1,4 @@
+"Task","Requirement","Baseline success","Baseline sample","Final success","Final sample","Final rate","Target","Gate"
+"RES-01","NET-01","7","12","11","12","0.9166666666666666","0.8","Meets"
+"RES-02","NET-02","6","12","10","12","0.8333333333333334","0.8","Meets"
+"RES-03","NET-03","8","12","11","12","0.9166666666666666","0.8","Meets"

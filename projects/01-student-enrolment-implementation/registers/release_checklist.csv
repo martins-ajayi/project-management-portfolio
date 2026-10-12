@@ -1,0 +1,9 @@
+﻿Check_ID,Go_Live_Gate,Check,Evidence_Owner,W16_Status,W17_Scenario_Status,Notes
+G3-01,W17,UAT 95 percent or above; zero P0/P1,QA Lead,Blocked,Pass,180/180 pass W17 in simulation
+G3-02,W17,Data mappings reconciled and exceptions dispositioned,Data Lead,Blocked,Pass,REQ-04 and REQ-08
+G3-03,W17,Role access security tests accepted,Technical Lead,In review,Pass,Negative tests
+G3-04,W17,School training and support plan confirmed,Change Lead,In progress,Pass,Pre-pilot readiness
+G3-05,W17,Runbook rollback and contacts verified,Operations Lead,In review,Pass,Service owner assigned
+G3-06,W17,Sponsor pilot go/no-go signed,Sponsor,Not started,Pass,DEC-03
+G4-01,W20,Pilot adoption incidents and data quality reviewed,Operations Lead,Not started,Pass W20,DEC-04
+G5-01,W24,Service acceptance and residual risks transferred,Operations Lead,Not started,Pass W24,Illustrative closeout

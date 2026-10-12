@@ -1,0 +1,5 @@
+﻿Benefit_ID,Metric,Target,Simulation_W24_Result,Measurement_Method,Owner,Followup
+BEN-01,Eligible registration completion rate,>=95%,97.8%,Accepted/eligible submissions in sample window,Business Owner,30 60 90 days post release
+BEN-02,School staff training completion,>=90%,95%,Completed learning checks / planned attendees,Change Lead,At release gate and after launch
+BEN-03,Critical defect exit,0 open P0/P1,0,QA defect report,QA Lead,Each release gate
+BEN-04,Spending against cap,<=240000 CAD,236000 CAD,Cost tracker including approved reserve draw,Sponsor,Closure

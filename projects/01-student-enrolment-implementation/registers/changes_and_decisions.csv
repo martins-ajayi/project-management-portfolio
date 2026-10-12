@@ -1,0 +1,6 @@
+﻿ID,Record_Type,Raised_Week,Description,Decision_Owner,Status,Cost_Impact_CAD,Schedule_Impact,Linked_Item
+DEC-01,Decision,5,Approve 24-week baseline and CAD 240000 total ceiling,Sponsor,Approved (simulation),0,Baseline agreed,M-02
+CHG-01,Change,16,Targeted mapping remediation and QA retest within existing scope,Sponsor,Approved (simulation),8000,No rebaseline; W17 gated,I-01
+DEC-02,Decision,16,Approve 8000 contingency draw; preserve quality gate,Sponsor,Approved (simulation),8000,W18 still conditional,CHG-01
+DEC-03,Decision,17,Approve pilot only after 180 of 180 UAT cases pass and Ops review,Sponsor,Approved (simulation),0,Pilot W18,M-04
+DEC-04,Decision,20,Approve 40-school expansion after pilot review,Sponsor,Approved (simulation),0,Expansion W21,M-06

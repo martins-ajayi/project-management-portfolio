@@ -1,0 +1,8 @@
+﻿Record_ID,Type,Description,Likelihood_1to5,Impact_1to5,Score,Priority,Owner,Response_or_Action,Target_Week,Status_W16,Scenario_Resolution
+R-01,Risk,Duplicate candidate IDs in legacy import,4,5,20,High,Data Lead,Profile source; dry-run reconciliation; negative tests,16,Materialized as I-01,See I-01; closed W17 in worked scenario
+R-02,Risk,Limited school UAT capacity,3,4,12,Medium,Business Owner,Reserve testers and alternates,14,Mitigating,No delay simulated
+R-03,Risk,Incorrect access to school records,2,5,10,Medium,Technical Lead,Permission review and negative-case UAT,17,Mitigating,Access gate passed W17
+R-04,Risk,Training below release target,3,3,9,Medium,Change Lead,Train-the-trainer and attendance tracking,17,Mitigating,95% sample completion at closure
+A-01,Assumption,School SMEs available for UAT,0,0,0,Watch,Business Owner,Validate participant commitments,13,Validated,Confirmed in simulation
+D-01,Dependency,Approved source-to-target data mapping,0,0,0,High,Data Lead,Get business owner approval,16,At risk,Remediated and signed W17
+I-01,Issue,Duplicate candidate IDs fail migration rehearsal and UAT,0,5,0,Critical,Data Lead,Quarantine; revise mapping; retest; CHG-01 DEC-02,17,Open P1,Closed after 180/180 pass W17

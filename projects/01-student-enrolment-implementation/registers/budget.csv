@@ -1,0 +1,9 @@
+﻿Cost_ID,Workstream,Baseline_CAD,Illustrative_EAC_W16_CAD,Explanation
+B-01,Discovery and requirements,28000,28000,Base work
+B-02,Solution design,28000,28000,Base work
+B-03,Development and integration,86000,86000,Base work
+B-04,QA and UAT,34000,34000,Base work
+B-05,Training and change,23000,23000,Base work
+B-06,Deployment and hypercare,13000,13000,Base work
+B-07,PM and governance,16000,16000,Base work
+B-08,Contingency,12000,8000,CHG-01 approved draw; 4000 unspent

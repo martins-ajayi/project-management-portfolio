@@ -1,0 +1,6 @@
+﻿Story_ID,Requirement,Priority,Iteration_Example,Story_or_Feature,Acceptance_Evidence,Scenario_Demo_Status,Owner
+ST-01,REQ-02,Must,W8-W10,Candidate registration entry,Negative mandatory-field validation,Accepted for integration,Delivery Lead
+ST-02,REQ-03,Must,W8-W10,Examination selection rules,Eligible exam choice tests,Accepted with copy edit,Business Owner
+ST-03,REQ-05,Must,W8-W10,Confirmation references,Repeatable confirmation ID,Accepted for integration,QA Lead
+ST-04,REQ-04,Must,W8-W10,Duplicate record guardrails,Manual and bulk import duplicate tests,Additional regression required,Data Lead
+ST-05,REQ-06,Must,W11-W13,Role-based access audit,Negative access test and audit proof,Build complete,Technical Lead

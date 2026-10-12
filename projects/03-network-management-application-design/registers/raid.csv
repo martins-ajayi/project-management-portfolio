@@ -1,0 +1,6 @@
+"ID","Type","Description","Owner","Status W11","Action","Due week","Link"
+"R-N01","Risk","Feature interest may not mean task success","Research Lead","Materialized","Observe task attempts","13","I-N01"
+"I-N01","Issue","Guest journey only 6 of 12 succeed","UX Lead","Open critical","Revise content and navigation","13","CR-N01"
+"R-N02","Risk","Unsupported device capability implied","Technical Lead","Mitigating","Feasibility review","14","N-G05"
+"R-N03","Risk","Research sample bias","Research Lead","Mitigating","Record mix and learning effects","14","RES-02"
+"D-N01","Dependency","Receiving-team capacity","Technical Lead","Confirmed","Reserve handoff review","16","N-G06"

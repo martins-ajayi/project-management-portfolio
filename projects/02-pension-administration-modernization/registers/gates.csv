@@ -1,0 +1,7 @@
+"Gate","Criterion","Owner","W24 status","W26 status","Evidence","Reviewer"
+"P-G01","UAT >=95%; Must pass; zero P0/P1","QA Lead","Fail","Pass","SIM-P-UAT-W26","Business Owner"
+"P-G02","Counts and values reconcile","Data Lead","Fail","Pass","SIM-P-RECON-W26","Finance Controller"
+"P-G03","Access and maker-checker verified","Technical Lead","Pass","Pass","SIM-P-ACCESS","QA Lead"
+"P-G04","Training >=90% and critical-role cover","Change Lead","Pending","Pass","SIM-P-TRAIN","Business Owner"
+"P-G05","Runbook restore and support accepted","Operations Lead","Pending","Pass","SIM-P-OPS","Operations Lead"
+"P-G06","Pilot decision recorded","PM","Pending","Pass","DEC-P02","Sponsor"

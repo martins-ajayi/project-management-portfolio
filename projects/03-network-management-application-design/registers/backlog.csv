@@ -1,0 +1,7 @@
+"Story","Requirement","Priority","Acceptance","Owner","Final status","Decision"
+"N-ST01","NET-01","Must","Find device and status","UX Lead","Accepted","DEC-N02"
+"N-ST02","NET-02","Must","Locate and manage guest control","UX Lead","Accepted after revision","CR-N01"
+"N-ST03","NET-03","Must","Find troubleshooting next action","Content Lead","Accepted","DEC-N02"
+"N-ST04","NET-04","Must","Restricted action explains permission","UX Lead","Accepted","DEC-N02"
+"N-ST05","NET-05","Must","Focus and navigation reviewed","QA Reviewer","Accepted","DEC-N02"
+"N-ST06","New request","Later","Usage history needs backend discovery","Product Owner","Deferred","CR-N02"
