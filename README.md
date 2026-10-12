@@ -20,7 +20,7 @@ With several years of experience in business systems and software delivery, I co
 Read a case summary, inspect its exception decision, then trace the related requirements, tests, gates and handover. Each case contains populated controls rather than empty headings. Excel workbooks provide editable calculations; CSV registers are portable snapshots.
 
 ## Website and profile
-The [website source](https://github.com/martins-ajayi/portfolio) brings the case studies and toolkit together. The [GitHub profile](https://github.com/martins-ajayi) introduces my delivery focus. The live website address will be added after deployment is verified.
+The [live portfolio website](https://martins-ajayi.github.io/portfolio/) brings the case studies and toolkit together. The [GitHub profile](https://github.com/martins-ajayi) introduces my delivery focus.
 
 ## Evidence and confidentiality
 See [evidence policy](PORTFOLIO_EVIDENCE.md). Workplace and client names are omitted. No proprietary data, real approval signatures or internal system records are reproduced.
